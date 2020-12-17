@@ -1,0 +1,171 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.content-wrapper {
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center; 
+}
+
+.header {
+	display: flex;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
+}
+.title {
+	display: inline-flex;
+	font-family: nocturne-serif, serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 60px;  
+	text-align: left;
+	letter-spacing: -1.98px;
+	color: #00000;
+	opacity: 1;
+}
+.main-menu {
+	display: flex;
+	margin: 0 auto;
+	align-items: center; 
+	justify-content: center;
+}
+.inline-block {
+	display: inline-flex;
+	font-family: nocturne-serif, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 40px;
+	color: #85104C;
+	letter-spacing: -1.32px;
+	opacity: 1;
+	text-align: center;
+	padding: 66px	
+}
+.mail {
+	padding: 66px;
+}
+
+.what-box {
+	display: inline-flex;
+  	width: 1136px;
+	height: 272px;
+	background-color: #FCE5DA;
+	margin-left: 292px;
+	margin-right: 392px;
+	margin-top: 50px;
+	padding: 0px;
+}
+
+.what-text-background {
+	width: 91px;
+	height: 30px;
+	background-color: #ffffff;
+	border-radius: 15px;
+	padding-box: auto;
+	margin-left:16px;
+	margin-top:-16px;	
+}
+
+.what-text {
+	color: #000000;
+	text-align: center;
+	width: 75px;
+	height: 24px;
+	font-family: nocturne-serif, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	margin-top: 2px;
+}
+
+h1 {
+	text-align: center;
+	justify-content: center;
+	display: inline-flex;
+	color: #1C808D;
+	font-family: nocturne-serif, serif;
+	font-weight: 500;
+	font-style: italic;
+	font-size:75px;
+	letter-spacing: -2.48px;}
+
+.what-comment {
+	margin-top: 37px;
+	margin-left: -72px;
+}
+
+#spoonbill-image {
+	display: flex;
+	float: right;
+	margin-top: -75px;
+	margin-right: -5px;
+} 
+
+.who-box {
+	display: inline-flex;
+  	width: 1136px;
+	height: 272px;
+	background-color: #fff4e1;
+	margin-left: 292px;
+	margin-right: 392px;
+	margin-top: 226px;
+	padding: 0px;
+}
+
+.who-text-background {
+	width: 91px;
+	height: 30px;
+	background-color: #ffffff;
+	border-radius: 15px;
+	padding-box: auto;
+	margin-right:16px;
+	margin-top:-16px;	
+}
+
+.who-text {
+	color: #000000;
+	text-align: center;
+	width: 75px;
+	height: 24px;
+	font-family: nocturne-serif, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	margin-top: 2px;
+}
+
+.who-comment {
+	margin-top: 37px;
+	margin-left: 30px;
+}
+
+#wendy-image {
+	display: flex;
+	float: right;
+	margin-top: -75px;
+	margin-right: -5px;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	color: #707070
+}
+a:hover {
+	text-shadow: 2px 2px 3px grey;
+}
+a:active {
+	color: darkblue;
+}
+
+
+
+
+
+
+
+
+
